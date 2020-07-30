@@ -5,7 +5,7 @@ a1=[] # All numbers from 2 - 50
 for i in range(2,one):
     a1.append(i)
 
-a2=a1 # polymorphism with a1[]
+a2=a1 
 
 r=0
 
